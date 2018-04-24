@@ -1,6 +1,3 @@
 ﻿测试git2的状态
 once more ....
 two more time...
-aaaaaaaaaa
-bbbbbbbbbb
-aaaaaaa
